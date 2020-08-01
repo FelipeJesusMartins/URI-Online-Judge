@@ -1,0 +1,13 @@
+D:\Projects\CSharp\URI Online Judge\1115 Quadrante URI\1115 Quadrante URI\bin\Debug\netcoreapp3.1\1115 Quadrante URI.exe
+D:\Projects\CSharp\URI Online Judge\1115 Quadrante URI\1115 Quadrante URI\bin\Debug\netcoreapp3.1\1115 Quadrante URI.deps.json
+D:\Projects\CSharp\URI Online Judge\1115 Quadrante URI\1115 Quadrante URI\bin\Debug\netcoreapp3.1\1115 Quadrante URI.runtimeconfig.json
+D:\Projects\CSharp\URI Online Judge\1115 Quadrante URI\1115 Quadrante URI\bin\Debug\netcoreapp3.1\1115 Quadrante URI.runtimeconfig.dev.json
+D:\Projects\CSharp\URI Online Judge\1115 Quadrante URI\1115 Quadrante URI\bin\Debug\netcoreapp3.1\1115 Quadrante URI.dll
+D:\Projects\CSharp\URI Online Judge\1115 Quadrante URI\1115 Quadrante URI\bin\Debug\netcoreapp3.1\1115 Quadrante URI.pdb
+D:\Projects\CSharp\URI Online Judge\1115 Quadrante URI\1115 Quadrante URI\obj\Debug\netcoreapp3.1\1115 Quadrante URI.csprojAssemblyReference.cache
+D:\Projects\CSharp\URI Online Judge\1115 Quadrante URI\1115 Quadrante URI\obj\Debug\netcoreapp3.1\1115 Quadrante URI.AssemblyInfoInputs.cache
+D:\Projects\CSharp\URI Online Judge\1115 Quadrante URI\1115 Quadrante URI\obj\Debug\netcoreapp3.1\1115 Quadrante URI.AssemblyInfo.cs
+D:\Projects\CSharp\URI Online Judge\1115 Quadrante URI\1115 Quadrante URI\obj\Debug\netcoreapp3.1\1115 Quadrante URI.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\URI Online Judge\1115 Quadrante URI\1115 Quadrante URI\obj\Debug\netcoreapp3.1\1115 Quadrante URI.dll
+D:\Projects\CSharp\URI Online Judge\1115 Quadrante URI\1115 Quadrante URI\obj\Debug\netcoreapp3.1\1115 Quadrante URI.pdb
+D:\Projects\CSharp\URI Online Judge\1115 Quadrante URI\1115 Quadrante URI\obj\Debug\netcoreapp3.1\1115 Quadrante URI.genruntimeconfig.cache

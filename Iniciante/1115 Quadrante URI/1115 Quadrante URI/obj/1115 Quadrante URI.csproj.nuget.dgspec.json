@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\CSharp\\URI Online Judge\\1115 Quadrante URI\\1115 Quadrante URI\\1115 Quadrante URI.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\CSharp\\URI Online Judge\\1115 Quadrante URI\\1115 Quadrante URI\\1115 Quadrante URI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\CSharp\\URI Online Judge\\1115 Quadrante URI\\1115 Quadrante URI\\1115 Quadrante URI.csproj",
+        "projectName": "1115 Quadrante URI",
+        "projectPath": "D:\\Projects\\CSharp\\URI Online Judge\\1115 Quadrante URI\\1115 Quadrante URI\\1115 Quadrante URI.csproj",
+        "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\CSharp\\URI Online Judge\\1115 Quadrante URI\\1115 Quadrante URI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

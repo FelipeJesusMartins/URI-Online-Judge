@@ -1,0 +1,12 @@
+D:\Projects\CSharp\URI Online Judge\1117 Validacao de Nota URI\1117 Validacao de Nota URI\bin\Debug\netcoreapp3.1\1117 Validacao de Nota URI.exe
+D:\Projects\CSharp\URI Online Judge\1117 Validacao de Nota URI\1117 Validacao de Nota URI\bin\Debug\netcoreapp3.1\1117 Validacao de Nota URI.deps.json
+D:\Projects\CSharp\URI Online Judge\1117 Validacao de Nota URI\1117 Validacao de Nota URI\bin\Debug\netcoreapp3.1\1117 Validacao de Nota URI.runtimeconfig.json
+D:\Projects\CSharp\URI Online Judge\1117 Validacao de Nota URI\1117 Validacao de Nota URI\bin\Debug\netcoreapp3.1\1117 Validacao de Nota URI.runtimeconfig.dev.json
+D:\Projects\CSharp\URI Online Judge\1117 Validacao de Nota URI\1117 Validacao de Nota URI\bin\Debug\netcoreapp3.1\1117 Validacao de Nota URI.dll
+D:\Projects\CSharp\URI Online Judge\1117 Validacao de Nota URI\1117 Validacao de Nota URI\bin\Debug\netcoreapp3.1\1117 Validacao de Nota URI.pdb
+D:\Projects\CSharp\URI Online Judge\1117 Validacao de Nota URI\1117 Validacao de Nota URI\obj\Debug\netcoreapp3.1\1117 Validacao de Nota URI.AssemblyInfoInputs.cache
+D:\Projects\CSharp\URI Online Judge\1117 Validacao de Nota URI\1117 Validacao de Nota URI\obj\Debug\netcoreapp3.1\1117 Validacao de Nota URI.AssemblyInfo.cs
+D:\Projects\CSharp\URI Online Judge\1117 Validacao de Nota URI\1117 Validacao de Nota URI\obj\Debug\netcoreapp3.1\1117 Validacao de Nota URI.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\URI Online Judge\1117 Validacao de Nota URI\1117 Validacao de Nota URI\obj\Debug\netcoreapp3.1\1117 Validacao de Nota URI.dll
+D:\Projects\CSharp\URI Online Judge\1117 Validacao de Nota URI\1117 Validacao de Nota URI\obj\Debug\netcoreapp3.1\1117 Validacao de Nota URI.pdb
+D:\Projects\CSharp\URI Online Judge\1117 Validacao de Nota URI\1117 Validacao de Nota URI\obj\Debug\netcoreapp3.1\1117 Validacao de Nota URI.genruntimeconfig.cache

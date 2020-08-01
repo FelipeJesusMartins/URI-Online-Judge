@@ -1,0 +1,13 @@
+D:\Projects\CSharp\URI Online Judge\1016  Distancia URI\1016  Distancia URI\bin\Debug\netcoreapp3.1\1016  Distancia URI.exe
+D:\Projects\CSharp\URI Online Judge\1016  Distancia URI\1016  Distancia URI\bin\Debug\netcoreapp3.1\1016  Distancia URI.deps.json
+D:\Projects\CSharp\URI Online Judge\1016  Distancia URI\1016  Distancia URI\bin\Debug\netcoreapp3.1\1016  Distancia URI.runtimeconfig.json
+D:\Projects\CSharp\URI Online Judge\1016  Distancia URI\1016  Distancia URI\bin\Debug\netcoreapp3.1\1016  Distancia URI.runtimeconfig.dev.json
+D:\Projects\CSharp\URI Online Judge\1016  Distancia URI\1016  Distancia URI\bin\Debug\netcoreapp3.1\1016  Distancia URI.dll
+D:\Projects\CSharp\URI Online Judge\1016  Distancia URI\1016  Distancia URI\bin\Debug\netcoreapp3.1\1016  Distancia URI.pdb
+D:\Projects\CSharp\URI Online Judge\1016  Distancia URI\1016  Distancia URI\obj\Debug\netcoreapp3.1\1016  Distancia URI.csprojAssemblyReference.cache
+D:\Projects\CSharp\URI Online Judge\1016  Distancia URI\1016  Distancia URI\obj\Debug\netcoreapp3.1\1016  Distancia URI.AssemblyInfoInputs.cache
+D:\Projects\CSharp\URI Online Judge\1016  Distancia URI\1016  Distancia URI\obj\Debug\netcoreapp3.1\1016  Distancia URI.AssemblyInfo.cs
+D:\Projects\CSharp\URI Online Judge\1016  Distancia URI\1016  Distancia URI\obj\Debug\netcoreapp3.1\1016  Distancia URI.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\URI Online Judge\1016  Distancia URI\1016  Distancia URI\obj\Debug\netcoreapp3.1\1016  Distancia URI.dll
+D:\Projects\CSharp\URI Online Judge\1016  Distancia URI\1016  Distancia URI\obj\Debug\netcoreapp3.1\1016  Distancia URI.pdb
+D:\Projects\CSharp\URI Online Judge\1016  Distancia URI\1016  Distancia URI\obj\Debug\netcoreapp3.1\1016  Distancia URI.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Projects\CSharp\URI Online Judge\1049 Animal URI\1049 Animal URI\bin\Debug\netcoreapp3.1\1049 Animal URI.exe
+D:\Projects\CSharp\URI Online Judge\1049 Animal URI\1049 Animal URI\bin\Debug\netcoreapp3.1\1049 Animal URI.deps.json
+D:\Projects\CSharp\URI Online Judge\1049 Animal URI\1049 Animal URI\bin\Debug\netcoreapp3.1\1049 Animal URI.runtimeconfig.json
+D:\Projects\CSharp\URI Online Judge\1049 Animal URI\1049 Animal URI\bin\Debug\netcoreapp3.1\1049 Animal URI.runtimeconfig.dev.json
+D:\Projects\CSharp\URI Online Judge\1049 Animal URI\1049 Animal URI\bin\Debug\netcoreapp3.1\1049 Animal URI.dll
+D:\Projects\CSharp\URI Online Judge\1049 Animal URI\1049 Animal URI\bin\Debug\netcoreapp3.1\1049 Animal URI.pdb
+D:\Projects\CSharp\URI Online Judge\1049 Animal URI\1049 Animal URI\obj\Debug\netcoreapp3.1\1049 Animal URI.csprojAssemblyReference.cache
+D:\Projects\CSharp\URI Online Judge\1049 Animal URI\1049 Animal URI\obj\Debug\netcoreapp3.1\1049 Animal URI.AssemblyInfoInputs.cache
+D:\Projects\CSharp\URI Online Judge\1049 Animal URI\1049 Animal URI\obj\Debug\netcoreapp3.1\1049 Animal URI.AssemblyInfo.cs
+D:\Projects\CSharp\URI Online Judge\1049 Animal URI\1049 Animal URI\obj\Debug\netcoreapp3.1\1049 Animal URI.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\URI Online Judge\1049 Animal URI\1049 Animal URI\obj\Debug\netcoreapp3.1\1049 Animal URI.dll
+D:\Projects\CSharp\URI Online Judge\1049 Animal URI\1049 Animal URI\obj\Debug\netcoreapp3.1\1049 Animal URI.pdb
+D:\Projects\CSharp\URI Online Judge\1049 Animal URI\1049 Animal URI\obj\Debug\netcoreapp3.1\1049 Animal URI.genruntimeconfig.cache

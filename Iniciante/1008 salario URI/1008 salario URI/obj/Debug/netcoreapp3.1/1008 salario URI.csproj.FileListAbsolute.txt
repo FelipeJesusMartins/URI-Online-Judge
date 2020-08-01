@@ -1,0 +1,12 @@
+D:\Projects\CSharp\URI Online Judge\1008 salario URI\1008 salario URI\bin\Debug\netcoreapp3.1\1008 salario URI.exe
+D:\Projects\CSharp\URI Online Judge\1008 salario URI\1008 salario URI\bin\Debug\netcoreapp3.1\1008 salario URI.deps.json
+D:\Projects\CSharp\URI Online Judge\1008 salario URI\1008 salario URI\bin\Debug\netcoreapp3.1\1008 salario URI.runtimeconfig.json
+D:\Projects\CSharp\URI Online Judge\1008 salario URI\1008 salario URI\bin\Debug\netcoreapp3.1\1008 salario URI.runtimeconfig.dev.json
+D:\Projects\CSharp\URI Online Judge\1008 salario URI\1008 salario URI\bin\Debug\netcoreapp3.1\1008 salario URI.dll
+D:\Projects\CSharp\URI Online Judge\1008 salario URI\1008 salario URI\bin\Debug\netcoreapp3.1\1008 salario URI.pdb
+D:\Projects\CSharp\URI Online Judge\1008 salario URI\1008 salario URI\obj\Debug\netcoreapp3.1\1008 salario URI.AssemblyInfoInputs.cache
+D:\Projects\CSharp\URI Online Judge\1008 salario URI\1008 salario URI\obj\Debug\netcoreapp3.1\1008 salario URI.AssemblyInfo.cs
+D:\Projects\CSharp\URI Online Judge\1008 salario URI\1008 salario URI\obj\Debug\netcoreapp3.1\1008 salario URI.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\URI Online Judge\1008 salario URI\1008 salario URI\obj\Debug\netcoreapp3.1\1008 salario URI.dll
+D:\Projects\CSharp\URI Online Judge\1008 salario URI\1008 salario URI\obj\Debug\netcoreapp3.1\1008 salario URI.pdb
+D:\Projects\CSharp\URI Online Judge\1008 salario URI\1008 salario URI\obj\Debug\netcoreapp3.1\1008 salario URI.genruntimeconfig.cache

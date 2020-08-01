@@ -1,0 +1,13 @@
+D:\Projects\CSharp\URI Online Judge\1043 Triangulo URI\1043 Triangulo URI\bin\Debug\netcoreapp3.1\1043 Triangulo URI.exe
+D:\Projects\CSharp\URI Online Judge\1043 Triangulo URI\1043 Triangulo URI\bin\Debug\netcoreapp3.1\1043 Triangulo URI.deps.json
+D:\Projects\CSharp\URI Online Judge\1043 Triangulo URI\1043 Triangulo URI\bin\Debug\netcoreapp3.1\1043 Triangulo URI.runtimeconfig.json
+D:\Projects\CSharp\URI Online Judge\1043 Triangulo URI\1043 Triangulo URI\bin\Debug\netcoreapp3.1\1043 Triangulo URI.runtimeconfig.dev.json
+D:\Projects\CSharp\URI Online Judge\1043 Triangulo URI\1043 Triangulo URI\bin\Debug\netcoreapp3.1\1043 Triangulo URI.dll
+D:\Projects\CSharp\URI Online Judge\1043 Triangulo URI\1043 Triangulo URI\bin\Debug\netcoreapp3.1\1043 Triangulo URI.pdb
+D:\Projects\CSharp\URI Online Judge\1043 Triangulo URI\1043 Triangulo URI\obj\Debug\netcoreapp3.1\1043 Triangulo URI.csprojAssemblyReference.cache
+D:\Projects\CSharp\URI Online Judge\1043 Triangulo URI\1043 Triangulo URI\obj\Debug\netcoreapp3.1\1043 Triangulo URI.AssemblyInfoInputs.cache
+D:\Projects\CSharp\URI Online Judge\1043 Triangulo URI\1043 Triangulo URI\obj\Debug\netcoreapp3.1\1043 Triangulo URI.AssemblyInfo.cs
+D:\Projects\CSharp\URI Online Judge\1043 Triangulo URI\1043 Triangulo URI\obj\Debug\netcoreapp3.1\1043 Triangulo URI.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\URI Online Judge\1043 Triangulo URI\1043 Triangulo URI\obj\Debug\netcoreapp3.1\1043 Triangulo URI.dll
+D:\Projects\CSharp\URI Online Judge\1043 Triangulo URI\1043 Triangulo URI\obj\Debug\netcoreapp3.1\1043 Triangulo URI.pdb
+D:\Projects\CSharp\URI Online Judge\1043 Triangulo URI\1043 Triangulo URI\obj\Debug\netcoreapp3.1\1043 Triangulo URI.genruntimeconfig.cache

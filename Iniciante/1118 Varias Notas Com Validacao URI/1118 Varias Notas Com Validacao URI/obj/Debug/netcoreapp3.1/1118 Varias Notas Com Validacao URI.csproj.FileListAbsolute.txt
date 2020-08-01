@@ -1,0 +1,12 @@
+D:\Projects\CSharp\URI Online Judge\1118 Varias Notas Com Validacao URI\1118 Varias Notas Com Validacao URI\bin\Debug\netcoreapp3.1\1118 Varias Notas Com Validacao URI.exe
+D:\Projects\CSharp\URI Online Judge\1118 Varias Notas Com Validacao URI\1118 Varias Notas Com Validacao URI\bin\Debug\netcoreapp3.1\1118 Varias Notas Com Validacao URI.deps.json
+D:\Projects\CSharp\URI Online Judge\1118 Varias Notas Com Validacao URI\1118 Varias Notas Com Validacao URI\bin\Debug\netcoreapp3.1\1118 Varias Notas Com Validacao URI.runtimeconfig.json
+D:\Projects\CSharp\URI Online Judge\1118 Varias Notas Com Validacao URI\1118 Varias Notas Com Validacao URI\bin\Debug\netcoreapp3.1\1118 Varias Notas Com Validacao URI.runtimeconfig.dev.json
+D:\Projects\CSharp\URI Online Judge\1118 Varias Notas Com Validacao URI\1118 Varias Notas Com Validacao URI\bin\Debug\netcoreapp3.1\1118 Varias Notas Com Validacao URI.dll
+D:\Projects\CSharp\URI Online Judge\1118 Varias Notas Com Validacao URI\1118 Varias Notas Com Validacao URI\bin\Debug\netcoreapp3.1\1118 Varias Notas Com Validacao URI.pdb
+D:\Projects\CSharp\URI Online Judge\1118 Varias Notas Com Validacao URI\1118 Varias Notas Com Validacao URI\obj\Debug\netcoreapp3.1\1118 Varias Notas Com Validacao URI.AssemblyInfoInputs.cache
+D:\Projects\CSharp\URI Online Judge\1118 Varias Notas Com Validacao URI\1118 Varias Notas Com Validacao URI\obj\Debug\netcoreapp3.1\1118 Varias Notas Com Validacao URI.AssemblyInfo.cs
+D:\Projects\CSharp\URI Online Judge\1118 Varias Notas Com Validacao URI\1118 Varias Notas Com Validacao URI\obj\Debug\netcoreapp3.1\1118 Varias Notas Com Validacao URI.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\URI Online Judge\1118 Varias Notas Com Validacao URI\1118 Varias Notas Com Validacao URI\obj\Debug\netcoreapp3.1\1118 Varias Notas Com Validacao URI.dll
+D:\Projects\CSharp\URI Online Judge\1118 Varias Notas Com Validacao URI\1118 Varias Notas Com Validacao URI\obj\Debug\netcoreapp3.1\1118 Varias Notas Com Validacao URI.pdb
+D:\Projects\CSharp\URI Online Judge\1118 Varias Notas Com Validacao URI\1118 Varias Notas Com Validacao URI\obj\Debug\netcoreapp3.1\1118 Varias Notas Com Validacao URI.genruntimeconfig.cache

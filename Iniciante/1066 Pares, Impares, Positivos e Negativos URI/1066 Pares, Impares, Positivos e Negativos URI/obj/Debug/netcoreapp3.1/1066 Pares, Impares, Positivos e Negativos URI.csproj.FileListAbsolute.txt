@@ -1,0 +1,12 @@
+C:\Users\Felipe\source\repos\1066 Pares, Impares, Positivos e Negativos URI\1066 Pares, Impares, Positivos e Negativos URI\bin\Debug\netcoreapp3.1\1066 Pares, Impares, Positivos e Negativos URI.exe
+C:\Users\Felipe\source\repos\1066 Pares, Impares, Positivos e Negativos URI\1066 Pares, Impares, Positivos e Negativos URI\bin\Debug\netcoreapp3.1\1066 Pares, Impares, Positivos e Negativos URI.deps.json
+C:\Users\Felipe\source\repos\1066 Pares, Impares, Positivos e Negativos URI\1066 Pares, Impares, Positivos e Negativos URI\bin\Debug\netcoreapp3.1\1066 Pares, Impares, Positivos e Negativos URI.runtimeconfig.json
+C:\Users\Felipe\source\repos\1066 Pares, Impares, Positivos e Negativos URI\1066 Pares, Impares, Positivos e Negativos URI\bin\Debug\netcoreapp3.1\1066 Pares, Impares, Positivos e Negativos URI.runtimeconfig.dev.json
+C:\Users\Felipe\source\repos\1066 Pares, Impares, Positivos e Negativos URI\1066 Pares, Impares, Positivos e Negativos URI\bin\Debug\netcoreapp3.1\1066 Pares, Impares, Positivos e Negativos URI.dll
+C:\Users\Felipe\source\repos\1066 Pares, Impares, Positivos e Negativos URI\1066 Pares, Impares, Positivos e Negativos URI\bin\Debug\netcoreapp3.1\1066 Pares, Impares, Positivos e Negativos URI.pdb
+C:\Users\Felipe\source\repos\1066 Pares, Impares, Positivos e Negativos URI\1066 Pares, Impares, Positivos e Negativos URI\obj\Debug\netcoreapp3.1\1066 Pares, Impares, Positivos e Negativos URI.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\1066 Pares, Impares, Positivos e Negativos URI\1066 Pares, Impares, Positivos e Negativos URI\obj\Debug\netcoreapp3.1\1066 Pares, Impares, Positivos e Negativos URI.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\1066 Pares, Impares, Positivos e Negativos URI\1066 Pares, Impares, Positivos e Negativos URI\obj\Debug\netcoreapp3.1\1066 Pares, Impares, Positivos e Negativos URI.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\1066 Pares, Impares, Positivos e Negativos URI\1066 Pares, Impares, Positivos e Negativos URI\obj\Debug\netcoreapp3.1\1066 Pares, Impares, Positivos e Negativos URI.dll
+C:\Users\Felipe\source\repos\1066 Pares, Impares, Positivos e Negativos URI\1066 Pares, Impares, Positivos e Negativos URI\obj\Debug\netcoreapp3.1\1066 Pares, Impares, Positivos e Negativos URI.pdb
+C:\Users\Felipe\source\repos\1066 Pares, Impares, Positivos e Negativos URI\1066 Pares, Impares, Positivos e Negativos URI\obj\Debug\netcoreapp3.1\1066 Pares, Impares, Positivos e Negativos URI.genruntimeconfig.cache
