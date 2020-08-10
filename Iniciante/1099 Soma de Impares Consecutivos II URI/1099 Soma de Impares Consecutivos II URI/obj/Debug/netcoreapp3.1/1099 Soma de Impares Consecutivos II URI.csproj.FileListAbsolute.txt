@@ -1,0 +1,13 @@
+D:\Projects\C#\URI Online Judge\Iniciante\1099 Soma de Impares Consecutivos II URI\1099 Soma de Impares Consecutivos II URI\bin\Debug\netcoreapp3.1\1099 Soma de Impares Consecutivos II URI.exe
+D:\Projects\C#\URI Online Judge\Iniciante\1099 Soma de Impares Consecutivos II URI\1099 Soma de Impares Consecutivos II URI\bin\Debug\netcoreapp3.1\1099 Soma de Impares Consecutivos II URI.deps.json
+D:\Projects\C#\URI Online Judge\Iniciante\1099 Soma de Impares Consecutivos II URI\1099 Soma de Impares Consecutivos II URI\bin\Debug\netcoreapp3.1\1099 Soma de Impares Consecutivos II URI.runtimeconfig.json
+D:\Projects\C#\URI Online Judge\Iniciante\1099 Soma de Impares Consecutivos II URI\1099 Soma de Impares Consecutivos II URI\bin\Debug\netcoreapp3.1\1099 Soma de Impares Consecutivos II URI.runtimeconfig.dev.json
+D:\Projects\C#\URI Online Judge\Iniciante\1099 Soma de Impares Consecutivos II URI\1099 Soma de Impares Consecutivos II URI\bin\Debug\netcoreapp3.1\1099 Soma de Impares Consecutivos II URI.dll
+D:\Projects\C#\URI Online Judge\Iniciante\1099 Soma de Impares Consecutivos II URI\1099 Soma de Impares Consecutivos II URI\bin\Debug\netcoreapp3.1\1099 Soma de Impares Consecutivos II URI.pdb
+D:\Projects\C#\URI Online Judge\Iniciante\1099 Soma de Impares Consecutivos II URI\1099 Soma de Impares Consecutivos II URI\obj\Debug\netcoreapp3.1\1099 Soma de Impares Consecutivos II URI.csprojAssemblyReference.cache
+D:\Projects\C#\URI Online Judge\Iniciante\1099 Soma de Impares Consecutivos II URI\1099 Soma de Impares Consecutivos II URI\obj\Debug\netcoreapp3.1\1099 Soma de Impares Consecutivos II URI.AssemblyInfoInputs.cache
+D:\Projects\C#\URI Online Judge\Iniciante\1099 Soma de Impares Consecutivos II URI\1099 Soma de Impares Consecutivos II URI\obj\Debug\netcoreapp3.1\1099 Soma de Impares Consecutivos II URI.AssemblyInfo.cs
+D:\Projects\C#\URI Online Judge\Iniciante\1099 Soma de Impares Consecutivos II URI\1099 Soma de Impares Consecutivos II URI\obj\Debug\netcoreapp3.1\1099 Soma de Impares Consecutivos II URI.csproj.CoreCompileInputs.cache
+D:\Projects\C#\URI Online Judge\Iniciante\1099 Soma de Impares Consecutivos II URI\1099 Soma de Impares Consecutivos II URI\obj\Debug\netcoreapp3.1\1099 Soma de Impares Consecutivos II URI.dll
+D:\Projects\C#\URI Online Judge\Iniciante\1099 Soma de Impares Consecutivos II URI\1099 Soma de Impares Consecutivos II URI\obj\Debug\netcoreapp3.1\1099 Soma de Impares Consecutivos II URI.pdb
+D:\Projects\C#\URI Online Judge\Iniciante\1099 Soma de Impares Consecutivos II URI\1099 Soma de Impares Consecutivos II URI\obj\Debug\netcoreapp3.1\1099 Soma de Impares Consecutivos II URI.genruntimeconfig.cache
