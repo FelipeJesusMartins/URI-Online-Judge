@@ -1,0 +1,13 @@
+D:\Projects\C#\URI Online Judge\Iniciante\1133 Resto da Divisao URI\1133 Resto da Divisao URI\bin\Debug\netcoreapp3.1\1133 Resto da Divisao URI.exe
+D:\Projects\C#\URI Online Judge\Iniciante\1133 Resto da Divisao URI\1133 Resto da Divisao URI\bin\Debug\netcoreapp3.1\1133 Resto da Divisao URI.deps.json
+D:\Projects\C#\URI Online Judge\Iniciante\1133 Resto da Divisao URI\1133 Resto da Divisao URI\bin\Debug\netcoreapp3.1\1133 Resto da Divisao URI.runtimeconfig.json
+D:\Projects\C#\URI Online Judge\Iniciante\1133 Resto da Divisao URI\1133 Resto da Divisao URI\bin\Debug\netcoreapp3.1\1133 Resto da Divisao URI.runtimeconfig.dev.json
+D:\Projects\C#\URI Online Judge\Iniciante\1133 Resto da Divisao URI\1133 Resto da Divisao URI\bin\Debug\netcoreapp3.1\1133 Resto da Divisao URI.dll
+D:\Projects\C#\URI Online Judge\Iniciante\1133 Resto da Divisao URI\1133 Resto da Divisao URI\bin\Debug\netcoreapp3.1\1133 Resto da Divisao URI.pdb
+D:\Projects\C#\URI Online Judge\Iniciante\1133 Resto da Divisao URI\1133 Resto da Divisao URI\obj\Debug\netcoreapp3.1\1133 Resto da Divisao URI.csprojAssemblyReference.cache
+D:\Projects\C#\URI Online Judge\Iniciante\1133 Resto da Divisao URI\1133 Resto da Divisao URI\obj\Debug\netcoreapp3.1\1133 Resto da Divisao URI.AssemblyInfoInputs.cache
+D:\Projects\C#\URI Online Judge\Iniciante\1133 Resto da Divisao URI\1133 Resto da Divisao URI\obj\Debug\netcoreapp3.1\1133 Resto da Divisao URI.AssemblyInfo.cs
+D:\Projects\C#\URI Online Judge\Iniciante\1133 Resto da Divisao URI\1133 Resto da Divisao URI\obj\Debug\netcoreapp3.1\1133 Resto da Divisao URI.csproj.CoreCompileInputs.cache
+D:\Projects\C#\URI Online Judge\Iniciante\1133 Resto da Divisao URI\1133 Resto da Divisao URI\obj\Debug\netcoreapp3.1\1133 Resto da Divisao URI.dll
+D:\Projects\C#\URI Online Judge\Iniciante\1133 Resto da Divisao URI\1133 Resto da Divisao URI\obj\Debug\netcoreapp3.1\1133 Resto da Divisao URI.pdb
+D:\Projects\C#\URI Online Judge\Iniciante\1133 Resto da Divisao URI\1133 Resto da Divisao URI\obj\Debug\netcoreapp3.1\1133 Resto da Divisao URI.genruntimeconfig.cache

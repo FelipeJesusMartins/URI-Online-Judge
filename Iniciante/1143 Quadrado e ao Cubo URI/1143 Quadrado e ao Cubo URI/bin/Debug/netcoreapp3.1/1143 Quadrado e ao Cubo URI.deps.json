@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1143 Quadrado e ao Cubo URI/1.0.0": {
+        "runtime": {
+          "1143 Quadrado e ao Cubo URI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1143 Quadrado e ao Cubo URI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
