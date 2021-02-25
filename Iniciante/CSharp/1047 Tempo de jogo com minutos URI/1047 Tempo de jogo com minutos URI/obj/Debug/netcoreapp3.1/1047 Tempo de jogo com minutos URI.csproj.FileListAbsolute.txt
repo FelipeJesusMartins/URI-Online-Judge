@@ -1,0 +1,13 @@
+D:\Projects\CSharp\URI Online Judge\1047 Tempo de jogo com minutos URI\1047 Tempo de jogo com minutos URI\bin\Debug\netcoreapp3.1\1047 Tempo de jogo com minutos URI.exe
+D:\Projects\CSharp\URI Online Judge\1047 Tempo de jogo com minutos URI\1047 Tempo de jogo com minutos URI\bin\Debug\netcoreapp3.1\1047 Tempo de jogo com minutos URI.deps.json
+D:\Projects\CSharp\URI Online Judge\1047 Tempo de jogo com minutos URI\1047 Tempo de jogo com minutos URI\bin\Debug\netcoreapp3.1\1047 Tempo de jogo com minutos URI.runtimeconfig.json
+D:\Projects\CSharp\URI Online Judge\1047 Tempo de jogo com minutos URI\1047 Tempo de jogo com minutos URI\bin\Debug\netcoreapp3.1\1047 Tempo de jogo com minutos URI.runtimeconfig.dev.json
+D:\Projects\CSharp\URI Online Judge\1047 Tempo de jogo com minutos URI\1047 Tempo de jogo com minutos URI\bin\Debug\netcoreapp3.1\1047 Tempo de jogo com minutos URI.dll
+D:\Projects\CSharp\URI Online Judge\1047 Tempo de jogo com minutos URI\1047 Tempo de jogo com minutos URI\bin\Debug\netcoreapp3.1\1047 Tempo de jogo com minutos URI.pdb
+D:\Projects\CSharp\URI Online Judge\1047 Tempo de jogo com minutos URI\1047 Tempo de jogo com minutos URI\obj\Debug\netcoreapp3.1\1047 Tempo de jogo com minutos URI.AssemblyInfoInputs.cache
+D:\Projects\CSharp\URI Online Judge\1047 Tempo de jogo com minutos URI\1047 Tempo de jogo com minutos URI\obj\Debug\netcoreapp3.1\1047 Tempo de jogo com minutos URI.AssemblyInfo.cs
+D:\Projects\CSharp\URI Online Judge\1047 Tempo de jogo com minutos URI\1047 Tempo de jogo com minutos URI\obj\Debug\netcoreapp3.1\1047 Tempo de jogo com minutos URI.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\URI Online Judge\1047 Tempo de jogo com minutos URI\1047 Tempo de jogo com minutos URI\obj\Debug\netcoreapp3.1\1047 Tempo de jogo com minutos URI.dll
+D:\Projects\CSharp\URI Online Judge\1047 Tempo de jogo com minutos URI\1047 Tempo de jogo com minutos URI\obj\Debug\netcoreapp3.1\1047 Tempo de jogo com minutos URI.pdb
+D:\Projects\CSharp\URI Online Judge\1047 Tempo de jogo com minutos URI\1047 Tempo de jogo com minutos URI\obj\Debug\netcoreapp3.1\1047 Tempo de jogo com minutos URI.genruntimeconfig.cache
+D:\Projects\CSharp\URI Online Judge\1047 Tempo de jogo com minutos URI\1047 Tempo de jogo com minutos URI\obj\Debug\netcoreapp3.1\1047 Tempo de jogo com minutos URI.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\Projects\CSharp\URI Online Judge\1003 Soma simples URI\1003 Soma simples URI\bin\Debug\netcoreapp3.1\1003 Soma simples URI.exe
+D:\Projects\CSharp\URI Online Judge\1003 Soma simples URI\1003 Soma simples URI\bin\Debug\netcoreapp3.1\1003 Soma simples URI.deps.json
+D:\Projects\CSharp\URI Online Judge\1003 Soma simples URI\1003 Soma simples URI\bin\Debug\netcoreapp3.1\1003 Soma simples URI.runtimeconfig.json
+D:\Projects\CSharp\URI Online Judge\1003 Soma simples URI\1003 Soma simples URI\bin\Debug\netcoreapp3.1\1003 Soma simples URI.runtimeconfig.dev.json
+D:\Projects\CSharp\URI Online Judge\1003 Soma simples URI\1003 Soma simples URI\bin\Debug\netcoreapp3.1\1003 Soma simples URI.dll
+D:\Projects\CSharp\URI Online Judge\1003 Soma simples URI\1003 Soma simples URI\bin\Debug\netcoreapp3.1\1003 Soma simples URI.pdb
+D:\Projects\CSharp\URI Online Judge\1003 Soma simples URI\1003 Soma simples URI\obj\Debug\netcoreapp3.1\1003 Soma simples URI.AssemblyInfoInputs.cache
+D:\Projects\CSharp\URI Online Judge\1003 Soma simples URI\1003 Soma simples URI\obj\Debug\netcoreapp3.1\1003 Soma simples URI.AssemblyInfo.cs
+D:\Projects\CSharp\URI Online Judge\1003 Soma simples URI\1003 Soma simples URI\obj\Debug\netcoreapp3.1\1003 Soma simples URI.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\URI Online Judge\1003 Soma simples URI\1003 Soma simples URI\obj\Debug\netcoreapp3.1\1003 Soma simples URI.dll
+D:\Projects\CSharp\URI Online Judge\1003 Soma simples URI\1003 Soma simples URI\obj\Debug\netcoreapp3.1\1003 Soma simples URI.pdb
+D:\Projects\CSharp\URI Online Judge\1003 Soma simples URI\1003 Soma simples URI\obj\Debug\netcoreapp3.1\1003 Soma simples URI.genruntimeconfig.cache

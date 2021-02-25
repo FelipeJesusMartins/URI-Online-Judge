@@ -1,0 +1,13 @@
+D:\Projects\CSharp\URI Online Judge\1067 Numeros Impares URI\1067 Numeros Impares URI\bin\Debug\netcoreapp3.1\1067 Numeros Impares URI.exe
+D:\Projects\CSharp\URI Online Judge\1067 Numeros Impares URI\1067 Numeros Impares URI\bin\Debug\netcoreapp3.1\1067 Numeros Impares URI.deps.json
+D:\Projects\CSharp\URI Online Judge\1067 Numeros Impares URI\1067 Numeros Impares URI\bin\Debug\netcoreapp3.1\1067 Numeros Impares URI.runtimeconfig.json
+D:\Projects\CSharp\URI Online Judge\1067 Numeros Impares URI\1067 Numeros Impares URI\bin\Debug\netcoreapp3.1\1067 Numeros Impares URI.runtimeconfig.dev.json
+D:\Projects\CSharp\URI Online Judge\1067 Numeros Impares URI\1067 Numeros Impares URI\bin\Debug\netcoreapp3.1\1067 Numeros Impares URI.dll
+D:\Projects\CSharp\URI Online Judge\1067 Numeros Impares URI\1067 Numeros Impares URI\bin\Debug\netcoreapp3.1\1067 Numeros Impares URI.pdb
+D:\Projects\CSharp\URI Online Judge\1067 Numeros Impares URI\1067 Numeros Impares URI\obj\Debug\netcoreapp3.1\1067 Numeros Impares URI.csprojAssemblyReference.cache
+D:\Projects\CSharp\URI Online Judge\1067 Numeros Impares URI\1067 Numeros Impares URI\obj\Debug\netcoreapp3.1\1067 Numeros Impares URI.AssemblyInfoInputs.cache
+D:\Projects\CSharp\URI Online Judge\1067 Numeros Impares URI\1067 Numeros Impares URI\obj\Debug\netcoreapp3.1\1067 Numeros Impares URI.AssemblyInfo.cs
+D:\Projects\CSharp\URI Online Judge\1067 Numeros Impares URI\1067 Numeros Impares URI\obj\Debug\netcoreapp3.1\1067 Numeros Impares URI.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\URI Online Judge\1067 Numeros Impares URI\1067 Numeros Impares URI\obj\Debug\netcoreapp3.1\1067 Numeros Impares URI.dll
+D:\Projects\CSharp\URI Online Judge\1067 Numeros Impares URI\1067 Numeros Impares URI\obj\Debug\netcoreapp3.1\1067 Numeros Impares URI.pdb
+D:\Projects\CSharp\URI Online Judge\1067 Numeros Impares URI\1067 Numeros Impares URI\obj\Debug\netcoreapp3.1\1067 Numeros Impares URI.genruntimeconfig.cache
