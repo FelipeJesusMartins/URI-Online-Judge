@@ -1,0 +1,13 @@
+D:\Projects\CSharp\URI Online Judge\1018 Cedulas URI\1018 Cedulas URI\bin\Debug\netcoreapp3.1\1018 Cedulas URI.exe
+D:\Projects\CSharp\URI Online Judge\1018 Cedulas URI\1018 Cedulas URI\bin\Debug\netcoreapp3.1\1018 Cedulas URI.deps.json
+D:\Projects\CSharp\URI Online Judge\1018 Cedulas URI\1018 Cedulas URI\bin\Debug\netcoreapp3.1\1018 Cedulas URI.runtimeconfig.json
+D:\Projects\CSharp\URI Online Judge\1018 Cedulas URI\1018 Cedulas URI\bin\Debug\netcoreapp3.1\1018 Cedulas URI.runtimeconfig.dev.json
+D:\Projects\CSharp\URI Online Judge\1018 Cedulas URI\1018 Cedulas URI\bin\Debug\netcoreapp3.1\1018 Cedulas URI.dll
+D:\Projects\CSharp\URI Online Judge\1018 Cedulas URI\1018 Cedulas URI\bin\Debug\netcoreapp3.1\1018 Cedulas URI.pdb
+D:\Projects\CSharp\URI Online Judge\1018 Cedulas URI\1018 Cedulas URI\obj\Debug\netcoreapp3.1\1018 Cedulas URI.csprojAssemblyReference.cache
+D:\Projects\CSharp\URI Online Judge\1018 Cedulas URI\1018 Cedulas URI\obj\Debug\netcoreapp3.1\1018 Cedulas URI.AssemblyInfoInputs.cache
+D:\Projects\CSharp\URI Online Judge\1018 Cedulas URI\1018 Cedulas URI\obj\Debug\netcoreapp3.1\1018 Cedulas URI.AssemblyInfo.cs
+D:\Projects\CSharp\URI Online Judge\1018 Cedulas URI\1018 Cedulas URI\obj\Debug\netcoreapp3.1\1018 Cedulas URI.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\URI Online Judge\1018 Cedulas URI\1018 Cedulas URI\obj\Debug\netcoreapp3.1\1018 Cedulas URI.dll
+D:\Projects\CSharp\URI Online Judge\1018 Cedulas URI\1018 Cedulas URI\obj\Debug\netcoreapp3.1\1018 Cedulas URI.pdb
+D:\Projects\CSharp\URI Online Judge\1018 Cedulas URI\1018 Cedulas URI\obj\Debug\netcoreapp3.1\1018 Cedulas URI.genruntimeconfig.cache

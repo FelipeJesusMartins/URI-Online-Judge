@@ -1,0 +1,13 @@
+D:\Projects\CSharp\URI Online Judge\1046 Tempo de jogo URI\1046 Tempo de jogo URI\bin\Debug\netcoreapp3.1\1046 Tempo de jogo URI.exe
+D:\Projects\CSharp\URI Online Judge\1046 Tempo de jogo URI\1046 Tempo de jogo URI\bin\Debug\netcoreapp3.1\1046 Tempo de jogo URI.deps.json
+D:\Projects\CSharp\URI Online Judge\1046 Tempo de jogo URI\1046 Tempo de jogo URI\bin\Debug\netcoreapp3.1\1046 Tempo de jogo URI.runtimeconfig.json
+D:\Projects\CSharp\URI Online Judge\1046 Tempo de jogo URI\1046 Tempo de jogo URI\bin\Debug\netcoreapp3.1\1046 Tempo de jogo URI.runtimeconfig.dev.json
+D:\Projects\CSharp\URI Online Judge\1046 Tempo de jogo URI\1046 Tempo de jogo URI\bin\Debug\netcoreapp3.1\1046 Tempo de jogo URI.dll
+D:\Projects\CSharp\URI Online Judge\1046 Tempo de jogo URI\1046 Tempo de jogo URI\bin\Debug\netcoreapp3.1\1046 Tempo de jogo URI.pdb
+D:\Projects\CSharp\URI Online Judge\1046 Tempo de jogo URI\1046 Tempo de jogo URI\obj\Debug\netcoreapp3.1\1046 Tempo de jogo URI.csprojAssemblyReference.cache
+D:\Projects\CSharp\URI Online Judge\1046 Tempo de jogo URI\1046 Tempo de jogo URI\obj\Debug\netcoreapp3.1\1046 Tempo de jogo URI.AssemblyInfoInputs.cache
+D:\Projects\CSharp\URI Online Judge\1046 Tempo de jogo URI\1046 Tempo de jogo URI\obj\Debug\netcoreapp3.1\1046 Tempo de jogo URI.AssemblyInfo.cs
+D:\Projects\CSharp\URI Online Judge\1046 Tempo de jogo URI\1046 Tempo de jogo URI\obj\Debug\netcoreapp3.1\1046 Tempo de jogo URI.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\URI Online Judge\1046 Tempo de jogo URI\1046 Tempo de jogo URI\obj\Debug\netcoreapp3.1\1046 Tempo de jogo URI.dll
+D:\Projects\CSharp\URI Online Judge\1046 Tempo de jogo URI\1046 Tempo de jogo URI\obj\Debug\netcoreapp3.1\1046 Tempo de jogo URI.pdb
+D:\Projects\CSharp\URI Online Judge\1046 Tempo de jogo URI\1046 Tempo de jogo URI\obj\Debug\netcoreapp3.1\1046 Tempo de jogo URI.genruntimeconfig.cache

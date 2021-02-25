@@ -1,0 +1,12 @@
+D:\Projects\CSharp\URI Online Judge\1021 Notas e Moedas URI\1021 Notas e Moedas URI\obj\Debug\netcoreapp3.1\1021 Notas e Moedas URI.AssemblyInfoInputs.cache
+D:\Projects\CSharp\URI Online Judge\1021 Notas e Moedas URI\1021 Notas e Moedas URI\obj\Debug\netcoreapp3.1\1021 Notas e Moedas URI.AssemblyInfo.cs
+D:\Projects\CSharp\URI Online Judge\1021 Notas e Moedas URI\1021 Notas e Moedas URI\obj\Debug\netcoreapp3.1\1021 Notas e Moedas URI.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\URI Online Judge\1021 Notas e Moedas URI\1021 Notas e Moedas URI\bin\Debug\netcoreapp3.1\1021 Notas e Moedas URI.exe
+D:\Projects\CSharp\URI Online Judge\1021 Notas e Moedas URI\1021 Notas e Moedas URI\bin\Debug\netcoreapp3.1\1021 Notas e Moedas URI.deps.json
+D:\Projects\CSharp\URI Online Judge\1021 Notas e Moedas URI\1021 Notas e Moedas URI\bin\Debug\netcoreapp3.1\1021 Notas e Moedas URI.runtimeconfig.json
+D:\Projects\CSharp\URI Online Judge\1021 Notas e Moedas URI\1021 Notas e Moedas URI\bin\Debug\netcoreapp3.1\1021 Notas e Moedas URI.runtimeconfig.dev.json
+D:\Projects\CSharp\URI Online Judge\1021 Notas e Moedas URI\1021 Notas e Moedas URI\bin\Debug\netcoreapp3.1\1021 Notas e Moedas URI.dll
+D:\Projects\CSharp\URI Online Judge\1021 Notas e Moedas URI\1021 Notas e Moedas URI\bin\Debug\netcoreapp3.1\1021 Notas e Moedas URI.pdb
+D:\Projects\CSharp\URI Online Judge\1021 Notas e Moedas URI\1021 Notas e Moedas URI\obj\Debug\netcoreapp3.1\1021 Notas e Moedas URI.dll
+D:\Projects\CSharp\URI Online Judge\1021 Notas e Moedas URI\1021 Notas e Moedas URI\obj\Debug\netcoreapp3.1\1021 Notas e Moedas URI.pdb
+D:\Projects\CSharp\URI Online Judge\1021 Notas e Moedas URI\1021 Notas e Moedas URI\obj\Debug\netcoreapp3.1\1021 Notas e Moedas URI.genruntimeconfig.cache

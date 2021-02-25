@@ -1,0 +1,12 @@
+D:\Projects\CSharp\URI Online Judge\1017 Gasto de combustivel URI\1017 Gasto de combustivel URI\bin\Debug\netcoreapp3.1\1017 Gasto de combustivel URI.exe
+D:\Projects\CSharp\URI Online Judge\1017 Gasto de combustivel URI\1017 Gasto de combustivel URI\bin\Debug\netcoreapp3.1\1017 Gasto de combustivel URI.deps.json
+D:\Projects\CSharp\URI Online Judge\1017 Gasto de combustivel URI\1017 Gasto de combustivel URI\bin\Debug\netcoreapp3.1\1017 Gasto de combustivel URI.runtimeconfig.json
+D:\Projects\CSharp\URI Online Judge\1017 Gasto de combustivel URI\1017 Gasto de combustivel URI\bin\Debug\netcoreapp3.1\1017 Gasto de combustivel URI.runtimeconfig.dev.json
+D:\Projects\CSharp\URI Online Judge\1017 Gasto de combustivel URI\1017 Gasto de combustivel URI\bin\Debug\netcoreapp3.1\1017 Gasto de combustivel URI.dll
+D:\Projects\CSharp\URI Online Judge\1017 Gasto de combustivel URI\1017 Gasto de combustivel URI\bin\Debug\netcoreapp3.1\1017 Gasto de combustivel URI.pdb
+D:\Projects\CSharp\URI Online Judge\1017 Gasto de combustivel URI\1017 Gasto de combustivel URI\obj\Debug\netcoreapp3.1\1017 Gasto de combustivel URI.AssemblyInfoInputs.cache
+D:\Projects\CSharp\URI Online Judge\1017 Gasto de combustivel URI\1017 Gasto de combustivel URI\obj\Debug\netcoreapp3.1\1017 Gasto de combustivel URI.AssemblyInfo.cs
+D:\Projects\CSharp\URI Online Judge\1017 Gasto de combustivel URI\1017 Gasto de combustivel URI\obj\Debug\netcoreapp3.1\1017 Gasto de combustivel URI.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\URI Online Judge\1017 Gasto de combustivel URI\1017 Gasto de combustivel URI\obj\Debug\netcoreapp3.1\1017 Gasto de combustivel URI.dll
+D:\Projects\CSharp\URI Online Judge\1017 Gasto de combustivel URI\1017 Gasto de combustivel URI\obj\Debug\netcoreapp3.1\1017 Gasto de combustivel URI.pdb
+D:\Projects\CSharp\URI Online Judge\1017 Gasto de combustivel URI\1017 Gasto de combustivel URI\obj\Debug\netcoreapp3.1\1017 Gasto de combustivel URI.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Projects\CSharp\URI Online Judge\1036 Formula de bhaskara URI\1036 Formula de bhaskara URI\bin\Debug\netcoreapp3.1\1036 Formula de bhaskara URI.exe
+D:\Projects\CSharp\URI Online Judge\1036 Formula de bhaskara URI\1036 Formula de bhaskara URI\bin\Debug\netcoreapp3.1\1036 Formula de bhaskara URI.deps.json
+D:\Projects\CSharp\URI Online Judge\1036 Formula de bhaskara URI\1036 Formula de bhaskara URI\bin\Debug\netcoreapp3.1\1036 Formula de bhaskara URI.runtimeconfig.json
+D:\Projects\CSharp\URI Online Judge\1036 Formula de bhaskara URI\1036 Formula de bhaskara URI\bin\Debug\netcoreapp3.1\1036 Formula de bhaskara URI.runtimeconfig.dev.json
+D:\Projects\CSharp\URI Online Judge\1036 Formula de bhaskara URI\1036 Formula de bhaskara URI\bin\Debug\netcoreapp3.1\1036 Formula de bhaskara URI.dll
+D:\Projects\CSharp\URI Online Judge\1036 Formula de bhaskara URI\1036 Formula de bhaskara URI\bin\Debug\netcoreapp3.1\1036 Formula de bhaskara URI.pdb
+D:\Projects\CSharp\URI Online Judge\1036 Formula de bhaskara URI\1036 Formula de bhaskara URI\obj\Debug\netcoreapp3.1\1036 Formula de bhaskara URI.csprojAssemblyReference.cache
+D:\Projects\CSharp\URI Online Judge\1036 Formula de bhaskara URI\1036 Formula de bhaskara URI\obj\Debug\netcoreapp3.1\1036 Formula de bhaskara URI.AssemblyInfoInputs.cache
+D:\Projects\CSharp\URI Online Judge\1036 Formula de bhaskara URI\1036 Formula de bhaskara URI\obj\Debug\netcoreapp3.1\1036 Formula de bhaskara URI.AssemblyInfo.cs
+D:\Projects\CSharp\URI Online Judge\1036 Formula de bhaskara URI\1036 Formula de bhaskara URI\obj\Debug\netcoreapp3.1\1036 Formula de bhaskara URI.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\URI Online Judge\1036 Formula de bhaskara URI\1036 Formula de bhaskara URI\obj\Debug\netcoreapp3.1\1036 Formula de bhaskara URI.dll
+D:\Projects\CSharp\URI Online Judge\1036 Formula de bhaskara URI\1036 Formula de bhaskara URI\obj\Debug\netcoreapp3.1\1036 Formula de bhaskara URI.pdb
+D:\Projects\CSharp\URI Online Judge\1036 Formula de bhaskara URI\1036 Formula de bhaskara URI\obj\Debug\netcoreapp3.1\1036 Formula de bhaskara URI.genruntimeconfig.cache

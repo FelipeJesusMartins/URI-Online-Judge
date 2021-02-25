@@ -1,0 +1,12 @@
+D:\Projects\CSharp\URI Online Judge\1004 Produto Simples URI\1004 Produto Simples URI\bin\Debug\netcoreapp3.1\1004 Produto Simples URI.exe
+D:\Projects\CSharp\URI Online Judge\1004 Produto Simples URI\1004 Produto Simples URI\bin\Debug\netcoreapp3.1\1004 Produto Simples URI.deps.json
+D:\Projects\CSharp\URI Online Judge\1004 Produto Simples URI\1004 Produto Simples URI\bin\Debug\netcoreapp3.1\1004 Produto Simples URI.runtimeconfig.json
+D:\Projects\CSharp\URI Online Judge\1004 Produto Simples URI\1004 Produto Simples URI\bin\Debug\netcoreapp3.1\1004 Produto Simples URI.runtimeconfig.dev.json
+D:\Projects\CSharp\URI Online Judge\1004 Produto Simples URI\1004 Produto Simples URI\bin\Debug\netcoreapp3.1\1004 Produto Simples URI.dll
+D:\Projects\CSharp\URI Online Judge\1004 Produto Simples URI\1004 Produto Simples URI\bin\Debug\netcoreapp3.1\1004 Produto Simples URI.pdb
+D:\Projects\CSharp\URI Online Judge\1004 Produto Simples URI\1004 Produto Simples URI\obj\Debug\netcoreapp3.1\1004 Produto Simples URI.AssemblyInfoInputs.cache
+D:\Projects\CSharp\URI Online Judge\1004 Produto Simples URI\1004 Produto Simples URI\obj\Debug\netcoreapp3.1\1004 Produto Simples URI.AssemblyInfo.cs
+D:\Projects\CSharp\URI Online Judge\1004 Produto Simples URI\1004 Produto Simples URI\obj\Debug\netcoreapp3.1\1004 Produto Simples URI.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\URI Online Judge\1004 Produto Simples URI\1004 Produto Simples URI\obj\Debug\netcoreapp3.1\1004 Produto Simples URI.dll
+D:\Projects\CSharp\URI Online Judge\1004 Produto Simples URI\1004 Produto Simples URI\obj\Debug\netcoreapp3.1\1004 Produto Simples URI.pdb
+D:\Projects\CSharp\URI Online Judge\1004 Produto Simples URI\1004 Produto Simples URI\obj\Debug\netcoreapp3.1\1004 Produto Simples URI.genruntimeconfig.cache

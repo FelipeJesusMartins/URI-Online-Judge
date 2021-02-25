@@ -1,0 +1,12 @@
+D:\Projects\CSharp\URI Online Judge\1015 Distancia entre dois pontos URI\1015 Distancia entre dois pontos URI\bin\Debug\netcoreapp3.1\1015 Distancia entre dois pontos URI.exe
+D:\Projects\CSharp\URI Online Judge\1015 Distancia entre dois pontos URI\1015 Distancia entre dois pontos URI\bin\Debug\netcoreapp3.1\1015 Distancia entre dois pontos URI.deps.json
+D:\Projects\CSharp\URI Online Judge\1015 Distancia entre dois pontos URI\1015 Distancia entre dois pontos URI\bin\Debug\netcoreapp3.1\1015 Distancia entre dois pontos URI.runtimeconfig.json
+D:\Projects\CSharp\URI Online Judge\1015 Distancia entre dois pontos URI\1015 Distancia entre dois pontos URI\bin\Debug\netcoreapp3.1\1015 Distancia entre dois pontos URI.runtimeconfig.dev.json
+D:\Projects\CSharp\URI Online Judge\1015 Distancia entre dois pontos URI\1015 Distancia entre dois pontos URI\bin\Debug\netcoreapp3.1\1015 Distancia entre dois pontos URI.dll
+D:\Projects\CSharp\URI Online Judge\1015 Distancia entre dois pontos URI\1015 Distancia entre dois pontos URI\bin\Debug\netcoreapp3.1\1015 Distancia entre dois pontos URI.pdb
+D:\Projects\CSharp\URI Online Judge\1015 Distancia entre dois pontos URI\1015 Distancia entre dois pontos URI\obj\Debug\netcoreapp3.1\1015 Distancia entre dois pontos URI.AssemblyInfoInputs.cache
+D:\Projects\CSharp\URI Online Judge\1015 Distancia entre dois pontos URI\1015 Distancia entre dois pontos URI\obj\Debug\netcoreapp3.1\1015 Distancia entre dois pontos URI.AssemblyInfo.cs
+D:\Projects\CSharp\URI Online Judge\1015 Distancia entre dois pontos URI\1015 Distancia entre dois pontos URI\obj\Debug\netcoreapp3.1\1015 Distancia entre dois pontos URI.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\URI Online Judge\1015 Distancia entre dois pontos URI\1015 Distancia entre dois pontos URI\obj\Debug\netcoreapp3.1\1015 Distancia entre dois pontos URI.dll
+D:\Projects\CSharp\URI Online Judge\1015 Distancia entre dois pontos URI\1015 Distancia entre dois pontos URI\obj\Debug\netcoreapp3.1\1015 Distancia entre dois pontos URI.pdb
+D:\Projects\CSharp\URI Online Judge\1015 Distancia entre dois pontos URI\1015 Distancia entre dois pontos URI\obj\Debug\netcoreapp3.1\1015 Distancia entre dois pontos URI.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1115 Quadrante URI", "1115 Quadrante URI\1115 Quadrante URI.csproj", "{2CE61B16-B321-4C32-AC35-A1C847D087B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CE61B16-B321-4C32-AC35-A1C847D087B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE61B16-B321-4C32-AC35-A1C847D087B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE61B16-B321-4C32-AC35-A1C847D087B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE61B16-B321-4C32-AC35-A1C847D087B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3A46F5D-3E38-48D2-928F-173A678CA97A}
+	EndGlobalSection
+EndGlobal
