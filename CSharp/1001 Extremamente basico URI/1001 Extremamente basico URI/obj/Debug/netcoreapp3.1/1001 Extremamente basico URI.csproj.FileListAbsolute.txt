@@ -1,0 +1,13 @@
+D:\code\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\bin\Debug\netcoreapp3.1\1001 Extremamente basico URI.exe
+D:\code\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\bin\Debug\netcoreapp3.1\1001 Extremamente basico URI.deps.json
+D:\code\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\bin\Debug\netcoreapp3.1\1001 Extremamente basico URI.runtimeconfig.json
+D:\code\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\bin\Debug\netcoreapp3.1\1001 Extremamente basico URI.runtimeconfig.dev.json
+D:\code\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\bin\Debug\netcoreapp3.1\1001 Extremamente basico URI.dll
+D:\code\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\bin\Debug\netcoreapp3.1\1001 Extremamente basico URI.pdb
+D:\code\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\obj\Debug\netcoreapp3.1\1001 Extremamente basico URI.csproj.AssemblyReference.cache
+D:\code\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\obj\Debug\netcoreapp3.1\1001 Extremamente basico URI.AssemblyInfoInputs.cache
+D:\code\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\obj\Debug\netcoreapp3.1\1001 Extremamente basico URI.AssemblyInfo.cs
+D:\code\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\obj\Debug\netcoreapp3.1\1001 Extremamente basico URI.csproj.CoreCompileInputs.cache
+D:\code\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\obj\Debug\netcoreapp3.1\1001 Extremamente basico URI.dll
+D:\code\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\obj\Debug\netcoreapp3.1\1001 Extremamente basico URI.pdb
+D:\code\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\obj\Debug\netcoreapp3.1\1001 Extremamente basico URI.genruntimeconfig.cache
