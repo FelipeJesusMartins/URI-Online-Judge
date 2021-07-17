@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1172 Substituição em Vetor I URI", "1172 Substituição em Vetor I URI\1172 Substituição em Vetor I URI.csproj", "{074D5FAF-54E7-4D58-93F6-118BAFE50219}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074D5FAF-54E7-4D58-93F6-118BAFE50219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074D5FAF-54E7-4D58-93F6-118BAFE50219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074D5FAF-54E7-4D58-93F6-118BAFE50219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074D5FAF-54E7-4D58-93F6-118BAFE50219}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2427306B-6C95-4A29-9233-AC86FA97199B}
+	EndGlobalSection
+EndGlobal

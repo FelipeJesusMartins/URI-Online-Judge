@@ -1,0 +1,7 @@
+D:\code\URI\URI-Online-Judge\CSharp\1174 Selecao em Vetor I URI\1174 Selecao em Vetor I URI\bin\Debug\1174 Selecao em Vetor I URI.exe.config
+D:\code\URI\URI-Online-Judge\CSharp\1174 Selecao em Vetor I URI\1174 Selecao em Vetor I URI\bin\Debug\1174 Selecao em Vetor I URI.exe
+D:\code\URI\URI-Online-Judge\CSharp\1174 Selecao em Vetor I URI\1174 Selecao em Vetor I URI\bin\Debug\1174 Selecao em Vetor I URI.pdb
+D:\code\URI\URI-Online-Judge\CSharp\1174 Selecao em Vetor I URI\1174 Selecao em Vetor I URI\obj\Debug\1174 Selecao em Vetor I URI.csproj.CoreCompileInputs.cache
+D:\code\URI\URI-Online-Judge\CSharp\1174 Selecao em Vetor I URI\1174 Selecao em Vetor I URI\obj\Debug\1174 Selecao em Vetor I URI.exe
+D:\code\URI\URI-Online-Judge\CSharp\1174 Selecao em Vetor I URI\1174 Selecao em Vetor I URI\obj\Debug\1174 Selecao em Vetor I URI.pdb
+D:\code\URI\URI-Online-Judge\CSharp\1174 Selecao em Vetor I URI\1174 Selecao em Vetor I URI\obj\Debug\1174 Selecao em Vetor I URI.csproj.AssemblyReference.cache

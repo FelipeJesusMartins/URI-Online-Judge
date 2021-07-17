@@ -1,0 +1,6 @@
+D:\code\URI\URI-Online-Judge\CSharp\1175 Troca em Vetor I URI\1175 Troca em Vetor I URI\bin\Debug\1175 Troca em Vetor I URI.exe.config
+D:\code\URI\URI-Online-Judge\CSharp\1175 Troca em Vetor I URI\1175 Troca em Vetor I URI\bin\Debug\1175 Troca em Vetor I URI.exe
+D:\code\URI\URI-Online-Judge\CSharp\1175 Troca em Vetor I URI\1175 Troca em Vetor I URI\bin\Debug\1175 Troca em Vetor I URI.pdb
+D:\code\URI\URI-Online-Judge\CSharp\1175 Troca em Vetor I URI\1175 Troca em Vetor I URI\obj\Debug\1175 Troca em Vetor I URI.csproj.CoreCompileInputs.cache
+D:\code\URI\URI-Online-Judge\CSharp\1175 Troca em Vetor I URI\1175 Troca em Vetor I URI\obj\Debug\1175 Troca em Vetor I URI.exe
+D:\code\URI\URI-Online-Judge\CSharp\1175 Troca em Vetor I URI\1175 Troca em Vetor I URI\obj\Debug\1175 Troca em Vetor I URI.pdb
