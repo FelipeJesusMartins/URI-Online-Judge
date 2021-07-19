@@ -1,0 +1,16 @@
+D:\code\URI\URI-Online-Judge\CSharp\1180 Menor e Posicao URI\1180 Menor e Posicao URI\bin\Debug\net5.0\1180 Menor e Posicao URI.exe
+D:\code\URI\URI-Online-Judge\CSharp\1180 Menor e Posicao URI\1180 Menor e Posicao URI\bin\Debug\net5.0\1180 Menor e Posicao URI.deps.json
+D:\code\URI\URI-Online-Judge\CSharp\1180 Menor e Posicao URI\1180 Menor e Posicao URI\bin\Debug\net5.0\1180 Menor e Posicao URI.runtimeconfig.json
+D:\code\URI\URI-Online-Judge\CSharp\1180 Menor e Posicao URI\1180 Menor e Posicao URI\bin\Debug\net5.0\1180 Menor e Posicao URI.runtimeconfig.dev.json
+D:\code\URI\URI-Online-Judge\CSharp\1180 Menor e Posicao URI\1180 Menor e Posicao URI\bin\Debug\net5.0\1180 Menor e Posicao URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1180 Menor e Posicao URI\1180 Menor e Posicao URI\bin\Debug\net5.0\ref\1180 Menor e Posicao URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1180 Menor e Posicao URI\1180 Menor e Posicao URI\bin\Debug\net5.0\1180 Menor e Posicao URI.pdb
+D:\code\URI\URI-Online-Judge\CSharp\1180 Menor e Posicao URI\1180 Menor e Posicao URI\obj\Debug\net5.0\1180 Menor e Posicao URI.csproj.AssemblyReference.cache
+D:\code\URI\URI-Online-Judge\CSharp\1180 Menor e Posicao URI\1180 Menor e Posicao URI\obj\Debug\net5.0\1180 Menor e Posicao URI.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\URI\URI-Online-Judge\CSharp\1180 Menor e Posicao URI\1180 Menor e Posicao URI\obj\Debug\net5.0\1180 Menor e Posicao URI.AssemblyInfoInputs.cache
+D:\code\URI\URI-Online-Judge\CSharp\1180 Menor e Posicao URI\1180 Menor e Posicao URI\obj\Debug\net5.0\1180 Menor e Posicao URI.AssemblyInfo.cs
+D:\code\URI\URI-Online-Judge\CSharp\1180 Menor e Posicao URI\1180 Menor e Posicao URI\obj\Debug\net5.0\1180 Menor e Posicao URI.csproj.CoreCompileInputs.cache
+D:\code\URI\URI-Online-Judge\CSharp\1180 Menor e Posicao URI\1180 Menor e Posicao URI\obj\Debug\net5.0\1180 Menor e Posicao URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1180 Menor e Posicao URI\1180 Menor e Posicao URI\obj\Debug\net5.0\ref\1180 Menor e Posicao URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1180 Menor e Posicao URI\1180 Menor e Posicao URI\obj\Debug\net5.0\1180 Menor e Posicao URI.pdb
+D:\code\URI\URI-Online-Judge\CSharp\1180 Menor e Posicao URI\1180 Menor e Posicao URI\obj\Debug\net5.0\1180 Menor e Posicao URI.genruntimeconfig.cache

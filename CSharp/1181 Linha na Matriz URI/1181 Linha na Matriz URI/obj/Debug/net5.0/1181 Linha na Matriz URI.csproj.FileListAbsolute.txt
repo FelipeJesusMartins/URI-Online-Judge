@@ -1,0 +1,16 @@
+D:\code\URI\URI-Online-Judge\CSharp\1181 Linha na Matriz URI\1181 Linha na Matriz URI\bin\Debug\net5.0\1181 Linha na Matriz URI.exe
+D:\code\URI\URI-Online-Judge\CSharp\1181 Linha na Matriz URI\1181 Linha na Matriz URI\bin\Debug\net5.0\1181 Linha na Matriz URI.deps.json
+D:\code\URI\URI-Online-Judge\CSharp\1181 Linha na Matriz URI\1181 Linha na Matriz URI\bin\Debug\net5.0\1181 Linha na Matriz URI.runtimeconfig.json
+D:\code\URI\URI-Online-Judge\CSharp\1181 Linha na Matriz URI\1181 Linha na Matriz URI\bin\Debug\net5.0\1181 Linha na Matriz URI.runtimeconfig.dev.json
+D:\code\URI\URI-Online-Judge\CSharp\1181 Linha na Matriz URI\1181 Linha na Matriz URI\bin\Debug\net5.0\1181 Linha na Matriz URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1181 Linha na Matriz URI\1181 Linha na Matriz URI\bin\Debug\net5.0\ref\1181 Linha na Matriz URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1181 Linha na Matriz URI\1181 Linha na Matriz URI\bin\Debug\net5.0\1181 Linha na Matriz URI.pdb
+D:\code\URI\URI-Online-Judge\CSharp\1181 Linha na Matriz URI\1181 Linha na Matriz URI\obj\Debug\net5.0\1181 Linha na Matriz URI.csproj.AssemblyReference.cache
+D:\code\URI\URI-Online-Judge\CSharp\1181 Linha na Matriz URI\1181 Linha na Matriz URI\obj\Debug\net5.0\1181 Linha na Matriz URI.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\URI\URI-Online-Judge\CSharp\1181 Linha na Matriz URI\1181 Linha na Matriz URI\obj\Debug\net5.0\1181 Linha na Matriz URI.AssemblyInfoInputs.cache
+D:\code\URI\URI-Online-Judge\CSharp\1181 Linha na Matriz URI\1181 Linha na Matriz URI\obj\Debug\net5.0\1181 Linha na Matriz URI.AssemblyInfo.cs
+D:\code\URI\URI-Online-Judge\CSharp\1181 Linha na Matriz URI\1181 Linha na Matriz URI\obj\Debug\net5.0\1181 Linha na Matriz URI.csproj.CoreCompileInputs.cache
+D:\code\URI\URI-Online-Judge\CSharp\1181 Linha na Matriz URI\1181 Linha na Matriz URI\obj\Debug\net5.0\1181 Linha na Matriz URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1181 Linha na Matriz URI\1181 Linha na Matriz URI\obj\Debug\net5.0\ref\1181 Linha na Matriz URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1181 Linha na Matriz URI\1181 Linha na Matriz URI\obj\Debug\net5.0\1181 Linha na Matriz URI.pdb
+D:\code\URI\URI-Online-Judge\CSharp\1181 Linha na Matriz URI\1181 Linha na Matriz URI\obj\Debug\net5.0\1181 Linha na Matriz URI.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\code\URI\URI-Online-Judge\CSharp\1179 Preenchimento de Vetor IV URI\1179 Preenchimento de Vetor IV URI\bin\Debug\net5.0\1179 Preenchimento de Vetor IV URI.exe
+D:\code\URI\URI-Online-Judge\CSharp\1179 Preenchimento de Vetor IV URI\1179 Preenchimento de Vetor IV URI\bin\Debug\net5.0\1179 Preenchimento de Vetor IV URI.deps.json
+D:\code\URI\URI-Online-Judge\CSharp\1179 Preenchimento de Vetor IV URI\1179 Preenchimento de Vetor IV URI\bin\Debug\net5.0\1179 Preenchimento de Vetor IV URI.runtimeconfig.json
+D:\code\URI\URI-Online-Judge\CSharp\1179 Preenchimento de Vetor IV URI\1179 Preenchimento de Vetor IV URI\bin\Debug\net5.0\1179 Preenchimento de Vetor IV URI.runtimeconfig.dev.json
+D:\code\URI\URI-Online-Judge\CSharp\1179 Preenchimento de Vetor IV URI\1179 Preenchimento de Vetor IV URI\bin\Debug\net5.0\1179 Preenchimento de Vetor IV URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1179 Preenchimento de Vetor IV URI\1179 Preenchimento de Vetor IV URI\bin\Debug\net5.0\ref\1179 Preenchimento de Vetor IV URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1179 Preenchimento de Vetor IV URI\1179 Preenchimento de Vetor IV URI\bin\Debug\net5.0\1179 Preenchimento de Vetor IV URI.pdb
+D:\code\URI\URI-Online-Judge\CSharp\1179 Preenchimento de Vetor IV URI\1179 Preenchimento de Vetor IV URI\obj\Debug\net5.0\1179 Preenchimento de Vetor IV URI.csproj.AssemblyReference.cache
+D:\code\URI\URI-Online-Judge\CSharp\1179 Preenchimento de Vetor IV URI\1179 Preenchimento de Vetor IV URI\obj\Debug\net5.0\1179 Preenchimento de Vetor IV URI.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\URI\URI-Online-Judge\CSharp\1179 Preenchimento de Vetor IV URI\1179 Preenchimento de Vetor IV URI\obj\Debug\net5.0\1179 Preenchimento de Vetor IV URI.AssemblyInfoInputs.cache
+D:\code\URI\URI-Online-Judge\CSharp\1179 Preenchimento de Vetor IV URI\1179 Preenchimento de Vetor IV URI\obj\Debug\net5.0\1179 Preenchimento de Vetor IV URI.AssemblyInfo.cs
+D:\code\URI\URI-Online-Judge\CSharp\1179 Preenchimento de Vetor IV URI\1179 Preenchimento de Vetor IV URI\obj\Debug\net5.0\1179 Preenchimento de Vetor IV URI.csproj.CoreCompileInputs.cache
+D:\code\URI\URI-Online-Judge\CSharp\1179 Preenchimento de Vetor IV URI\1179 Preenchimento de Vetor IV URI\obj\Debug\net5.0\1179 Preenchimento de Vetor IV URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1179 Preenchimento de Vetor IV URI\1179 Preenchimento de Vetor IV URI\obj\Debug\net5.0\ref\1179 Preenchimento de Vetor IV URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1179 Preenchimento de Vetor IV URI\1179 Preenchimento de Vetor IV URI\obj\Debug\net5.0\1179 Preenchimento de Vetor IV URI.pdb
+D:\code\URI\URI-Online-Judge\CSharp\1179 Preenchimento de Vetor IV URI\1179 Preenchimento de Vetor IV URI\obj\Debug\net5.0\1179 Preenchimento de Vetor IV URI.genruntimeconfig.cache
