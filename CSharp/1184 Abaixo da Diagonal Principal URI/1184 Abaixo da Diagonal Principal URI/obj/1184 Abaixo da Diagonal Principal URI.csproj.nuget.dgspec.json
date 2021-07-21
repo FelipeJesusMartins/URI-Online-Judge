@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\URI\\URI-Online-Judge\\CSharp\\1184 Abaixo da Diagonal Principal\\1184 Abaixo da Diagonal Principal\\1184 Abaixo da Diagonal Principal.csproj": {}
+    "D:\\code\\URI\\URI-Online-Judge\\CSharp\\1184 Abaixo da Diagonal Principal URI\\1184 Abaixo da Diagonal Principal URI\\1184 Abaixo da Diagonal Principal URI.csproj": {}
   },
   "projects": {
-    "D:\\code\\URI\\URI-Online-Judge\\CSharp\\1184 Abaixo da Diagonal Principal\\1184 Abaixo da Diagonal Principal\\1184 Abaixo da Diagonal Principal.csproj": {
+    "D:\\code\\URI\\URI-Online-Judge\\CSharp\\1184 Abaixo da Diagonal Principal URI\\1184 Abaixo da Diagonal Principal URI\\1184 Abaixo da Diagonal Principal URI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\URI\\URI-Online-Judge\\CSharp\\1184 Abaixo da Diagonal Principal\\1184 Abaixo da Diagonal Principal\\1184 Abaixo da Diagonal Principal.csproj",
-        "projectName": "1184 Abaixo da Diagonal Principal",
-        "projectPath": "D:\\code\\URI\\URI-Online-Judge\\CSharp\\1184 Abaixo da Diagonal Principal\\1184 Abaixo da Diagonal Principal\\1184 Abaixo da Diagonal Principal.csproj",
+        "projectUniqueName": "D:\\code\\URI\\URI-Online-Judge\\CSharp\\1184 Abaixo da Diagonal Principal URI\\1184 Abaixo da Diagonal Principal URI\\1184 Abaixo da Diagonal Principal URI.csproj",
+        "projectName": "1184 Abaixo da Diagonal Principal URI",
+        "projectPath": "D:\\code\\URI\\URI-Online-Judge\\CSharp\\1184 Abaixo da Diagonal Principal URI\\1184 Abaixo da Diagonal Principal URI\\1184 Abaixo da Diagonal Principal URI.csproj",
         "packagesPath": "C:\\Users\\rinokual\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\URI\\URI-Online-Judge\\CSharp\\1184 Abaixo da Diagonal Principal\\1184 Abaixo da Diagonal Principal\\obj\\",
+        "outputPath": "D:\\code\\URI\\URI-Online-Judge\\CSharp\\1184 Abaixo da Diagonal Principal URI\\1184 Abaixo da Diagonal Principal URI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

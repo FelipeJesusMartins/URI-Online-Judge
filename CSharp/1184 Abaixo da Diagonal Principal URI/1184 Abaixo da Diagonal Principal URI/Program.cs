@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace _1184_Abaixo_da_Diagonal_Principal
+namespace _1184_Abaixo_da_Diagonal_Principal_URI
 {
     class Program
     {
-        static void Main(string[] args)
+         static void Main(string[] args)
         {
             string op = Console.ReadLine();
             double[,] arr = new double[12, 12];

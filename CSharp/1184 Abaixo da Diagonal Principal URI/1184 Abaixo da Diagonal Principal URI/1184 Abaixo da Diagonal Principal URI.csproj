@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_1184_Abaixo_da_Diagonal_Principal</RootNamespace>
+    <RootNamespace>_1184_Abaixo_da_Diagonal_Principal_URI</RootNamespace>
   </PropertyGroup>
 
 </Project>

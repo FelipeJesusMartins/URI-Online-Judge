@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "1184 Abaixo da Diagonal Principal/1.0.0": {
+      "1184 Abaixo da Diagonal Principal URI/1.0.0": {
         "runtime": {
-          "1184 Abaixo da Diagonal Principal.dll": {}
+          "1184 Abaixo da Diagonal Principal URI.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "1184 Abaixo da Diagonal Principal/1.0.0": {
+    "1184 Abaixo da Diagonal Principal URI/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
