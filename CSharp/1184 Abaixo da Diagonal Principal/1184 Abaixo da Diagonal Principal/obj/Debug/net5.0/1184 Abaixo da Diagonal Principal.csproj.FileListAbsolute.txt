@@ -1,0 +1,16 @@
+D:\code\URI\URI-Online-Judge\CSharp\1184 Abaixo da Diagonal Principal\1184 Abaixo da Diagonal Principal\bin\Debug\net5.0\1184 Abaixo da Diagonal Principal.exe
+D:\code\URI\URI-Online-Judge\CSharp\1184 Abaixo da Diagonal Principal\1184 Abaixo da Diagonal Principal\bin\Debug\net5.0\1184 Abaixo da Diagonal Principal.deps.json
+D:\code\URI\URI-Online-Judge\CSharp\1184 Abaixo da Diagonal Principal\1184 Abaixo da Diagonal Principal\bin\Debug\net5.0\1184 Abaixo da Diagonal Principal.runtimeconfig.json
+D:\code\URI\URI-Online-Judge\CSharp\1184 Abaixo da Diagonal Principal\1184 Abaixo da Diagonal Principal\bin\Debug\net5.0\1184 Abaixo da Diagonal Principal.runtimeconfig.dev.json
+D:\code\URI\URI-Online-Judge\CSharp\1184 Abaixo da Diagonal Principal\1184 Abaixo da Diagonal Principal\bin\Debug\net5.0\1184 Abaixo da Diagonal Principal.dll
+D:\code\URI\URI-Online-Judge\CSharp\1184 Abaixo da Diagonal Principal\1184 Abaixo da Diagonal Principal\bin\Debug\net5.0\ref\1184 Abaixo da Diagonal Principal.dll
+D:\code\URI\URI-Online-Judge\CSharp\1184 Abaixo da Diagonal Principal\1184 Abaixo da Diagonal Principal\bin\Debug\net5.0\1184 Abaixo da Diagonal Principal.pdb
+D:\code\URI\URI-Online-Judge\CSharp\1184 Abaixo da Diagonal Principal\1184 Abaixo da Diagonal Principal\obj\Debug\net5.0\1184 Abaixo da Diagonal Principal.csproj.AssemblyReference.cache
+D:\code\URI\URI-Online-Judge\CSharp\1184 Abaixo da Diagonal Principal\1184 Abaixo da Diagonal Principal\obj\Debug\net5.0\1184 Abaixo da Diagonal Principal.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\URI\URI-Online-Judge\CSharp\1184 Abaixo da Diagonal Principal\1184 Abaixo da Diagonal Principal\obj\Debug\net5.0\1184 Abaixo da Diagonal Principal.AssemblyInfoInputs.cache
+D:\code\URI\URI-Online-Judge\CSharp\1184 Abaixo da Diagonal Principal\1184 Abaixo da Diagonal Principal\obj\Debug\net5.0\1184 Abaixo da Diagonal Principal.AssemblyInfo.cs
+D:\code\URI\URI-Online-Judge\CSharp\1184 Abaixo da Diagonal Principal\1184 Abaixo da Diagonal Principal\obj\Debug\net5.0\1184 Abaixo da Diagonal Principal.csproj.CoreCompileInputs.cache
+D:\code\URI\URI-Online-Judge\CSharp\1184 Abaixo da Diagonal Principal\1184 Abaixo da Diagonal Principal\obj\Debug\net5.0\1184 Abaixo da Diagonal Principal.dll
+D:\code\URI\URI-Online-Judge\CSharp\1184 Abaixo da Diagonal Principal\1184 Abaixo da Diagonal Principal\obj\Debug\net5.0\ref\1184 Abaixo da Diagonal Principal.dll
+D:\code\URI\URI-Online-Judge\CSharp\1184 Abaixo da Diagonal Principal\1184 Abaixo da Diagonal Principal\obj\Debug\net5.0\1184 Abaixo da Diagonal Principal.pdb
+D:\code\URI\URI-Online-Judge\CSharp\1184 Abaixo da Diagonal Principal\1184 Abaixo da Diagonal Principal\obj\Debug\net5.0\1184 Abaixo da Diagonal Principal.genruntimeconfig.cache
