@@ -1,0 +1,16 @@
+D:\code\URI\URI-Online-Judge\CSharp\1187 Area Superior URI\1187 Area Superior URI\bin\Debug\net5.0\1187 Area Superior URI.exe
+D:\code\URI\URI-Online-Judge\CSharp\1187 Area Superior URI\1187 Area Superior URI\bin\Debug\net5.0\1187 Area Superior URI.deps.json
+D:\code\URI\URI-Online-Judge\CSharp\1187 Area Superior URI\1187 Area Superior URI\bin\Debug\net5.0\1187 Area Superior URI.runtimeconfig.json
+D:\code\URI\URI-Online-Judge\CSharp\1187 Area Superior URI\1187 Area Superior URI\bin\Debug\net5.0\1187 Area Superior URI.runtimeconfig.dev.json
+D:\code\URI\URI-Online-Judge\CSharp\1187 Area Superior URI\1187 Area Superior URI\bin\Debug\net5.0\1187 Area Superior URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1187 Area Superior URI\1187 Area Superior URI\bin\Debug\net5.0\ref\1187 Area Superior URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1187 Area Superior URI\1187 Area Superior URI\bin\Debug\net5.0\1187 Area Superior URI.pdb
+D:\code\URI\URI-Online-Judge\CSharp\1187 Area Superior URI\1187 Area Superior URI\obj\Debug\net5.0\1187 Area Superior URI.csproj.AssemblyReference.cache
+D:\code\URI\URI-Online-Judge\CSharp\1187 Area Superior URI\1187 Area Superior URI\obj\Debug\net5.0\1187 Area Superior URI.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\URI\URI-Online-Judge\CSharp\1187 Area Superior URI\1187 Area Superior URI\obj\Debug\net5.0\1187 Area Superior URI.AssemblyInfoInputs.cache
+D:\code\URI\URI-Online-Judge\CSharp\1187 Area Superior URI\1187 Area Superior URI\obj\Debug\net5.0\1187 Area Superior URI.AssemblyInfo.cs
+D:\code\URI\URI-Online-Judge\CSharp\1187 Area Superior URI\1187 Area Superior URI\obj\Debug\net5.0\1187 Area Superior URI.csproj.CoreCompileInputs.cache
+D:\code\URI\URI-Online-Judge\CSharp\1187 Area Superior URI\1187 Area Superior URI\obj\Debug\net5.0\1187 Area Superior URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1187 Area Superior URI\1187 Area Superior URI\obj\Debug\net5.0\ref\1187 Area Superior URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1187 Area Superior URI\1187 Area Superior URI\obj\Debug\net5.0\1187 Area Superior URI.pdb
+D:\code\URI\URI-Online-Judge\CSharp\1187 Area Superior URI\1187 Area Superior URI\obj\Debug\net5.0\1187 Area Superior URI.genruntimeconfig.cache
