@@ -1,0 +1,16 @@
+D:\code\URI\URI-Online-Judge\CSharp\1190 Area Direita URI\1190 Area Direita URI\bin\Debug\net5.0\1190 Area Direita URI.exe
+D:\code\URI\URI-Online-Judge\CSharp\1190 Area Direita URI\1190 Area Direita URI\bin\Debug\net5.0\1190 Area Direita URI.deps.json
+D:\code\URI\URI-Online-Judge\CSharp\1190 Area Direita URI\1190 Area Direita URI\bin\Debug\net5.0\1190 Area Direita URI.runtimeconfig.json
+D:\code\URI\URI-Online-Judge\CSharp\1190 Area Direita URI\1190 Area Direita URI\bin\Debug\net5.0\1190 Area Direita URI.runtimeconfig.dev.json
+D:\code\URI\URI-Online-Judge\CSharp\1190 Area Direita URI\1190 Area Direita URI\bin\Debug\net5.0\1190 Area Direita URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1190 Area Direita URI\1190 Area Direita URI\bin\Debug\net5.0\ref\1190 Area Direita URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1190 Area Direita URI\1190 Area Direita URI\bin\Debug\net5.0\1190 Area Direita URI.pdb
+D:\code\URI\URI-Online-Judge\CSharp\1190 Area Direita URI\1190 Area Direita URI\obj\Debug\net5.0\1190 Area Direita URI.csproj.AssemblyReference.cache
+D:\code\URI\URI-Online-Judge\CSharp\1190 Area Direita URI\1190 Area Direita URI\obj\Debug\net5.0\1190 Area Direita URI.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\URI\URI-Online-Judge\CSharp\1190 Area Direita URI\1190 Area Direita URI\obj\Debug\net5.0\1190 Area Direita URI.AssemblyInfoInputs.cache
+D:\code\URI\URI-Online-Judge\CSharp\1190 Area Direita URI\1190 Area Direita URI\obj\Debug\net5.0\1190 Area Direita URI.AssemblyInfo.cs
+D:\code\URI\URI-Online-Judge\CSharp\1190 Area Direita URI\1190 Area Direita URI\obj\Debug\net5.0\1190 Area Direita URI.csproj.CoreCompileInputs.cache
+D:\code\URI\URI-Online-Judge\CSharp\1190 Area Direita URI\1190 Area Direita URI\obj\Debug\net5.0\1190 Area Direita URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1190 Area Direita URI\1190 Area Direita URI\obj\Debug\net5.0\ref\1190 Area Direita URI.dll
+D:\code\URI\URI-Online-Judge\CSharp\1190 Area Direita URI\1190 Area Direita URI\obj\Debug\net5.0\1190 Area Direita URI.pdb
+D:\code\URI\URI-Online-Judge\CSharp\1190 Area Direita URI\1190 Area Direita URI\obj\Debug\net5.0\1190 Area Direita URI.genruntimeconfig.cache
