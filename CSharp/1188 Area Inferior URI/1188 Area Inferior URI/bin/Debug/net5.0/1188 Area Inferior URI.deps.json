@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "1188 Area Inferior URI/1.0.0": {
+        "runtime": {
+          "1188 Area Inferior URI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1188 Area Inferior URI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
