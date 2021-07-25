@@ -27,7 +27,7 @@ namespace _1187_Area_Superior_URI
                 {
                         sum += arr[z, w];
                 }
-                p --;
+                p--;
             }
             if (op.Equals("S"))
             {
