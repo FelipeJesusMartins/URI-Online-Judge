@@ -1,0 +1,14 @@
+C:\Users\Jesus\Documents\URI-Online-Judge\CSharp\1002 Area do circulo URI\1002 Area do circulo URI\obj\Debug\netcoreapp3.1\1002 Area do circulo URI.csproj.AssemblyReference.cache
+C:\Users\Jesus\Documents\URI-Online-Judge\CSharp\1002 Area do circulo URI\1002 Area do circulo URI\obj\Debug\netcoreapp3.1\1002 Area do circulo URI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus\Documents\URI-Online-Judge\CSharp\1002 Area do circulo URI\1002 Area do circulo URI\obj\Debug\netcoreapp3.1\1002 Area do circulo URI.AssemblyInfoInputs.cache
+C:\Users\Jesus\Documents\URI-Online-Judge\CSharp\1002 Area do circulo URI\1002 Area do circulo URI\obj\Debug\netcoreapp3.1\1002 Area do circulo URI.AssemblyInfo.cs
+C:\Users\Jesus\Documents\URI-Online-Judge\CSharp\1002 Area do circulo URI\1002 Area do circulo URI\obj\Debug\netcoreapp3.1\1002 Area do circulo URI.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\Documents\URI-Online-Judge\CSharp\1002 Area do circulo URI\1002 Area do circulo URI\bin\Debug\netcoreapp3.1\1002 Area do circulo URI.exe
+C:\Users\Jesus\Documents\URI-Online-Judge\CSharp\1002 Area do circulo URI\1002 Area do circulo URI\bin\Debug\netcoreapp3.1\1002 Area do circulo URI.deps.json
+C:\Users\Jesus\Documents\URI-Online-Judge\CSharp\1002 Area do circulo URI\1002 Area do circulo URI\bin\Debug\netcoreapp3.1\1002 Area do circulo URI.runtimeconfig.json
+C:\Users\Jesus\Documents\URI-Online-Judge\CSharp\1002 Area do circulo URI\1002 Area do circulo URI\bin\Debug\netcoreapp3.1\1002 Area do circulo URI.runtimeconfig.dev.json
+C:\Users\Jesus\Documents\URI-Online-Judge\CSharp\1002 Area do circulo URI\1002 Area do circulo URI\bin\Debug\netcoreapp3.1\1002 Area do circulo URI.dll
+C:\Users\Jesus\Documents\URI-Online-Judge\CSharp\1002 Area do circulo URI\1002 Area do circulo URI\bin\Debug\netcoreapp3.1\1002 Area do circulo URI.pdb
+C:\Users\Jesus\Documents\URI-Online-Judge\CSharp\1002 Area do circulo URI\1002 Area do circulo URI\obj\Debug\netcoreapp3.1\1002 Area do circulo URI.dll
+C:\Users\Jesus\Documents\URI-Online-Judge\CSharp\1002 Area do circulo URI\1002 Area do circulo URI\obj\Debug\netcoreapp3.1\1002 Area do circulo URI.pdb
+C:\Users\Jesus\Documents\URI-Online-Judge\CSharp\1002 Area do circulo URI\1002 Area do circulo URI\obj\Debug\netcoreapp3.1\1002 Area do circulo URI.genruntimeconfig.cache
