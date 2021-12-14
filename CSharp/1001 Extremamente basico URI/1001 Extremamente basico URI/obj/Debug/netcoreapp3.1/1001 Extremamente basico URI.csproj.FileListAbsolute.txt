@@ -11,3 +11,17 @@ D:\code\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamen
 D:\code\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\obj\Debug\netcoreapp3.1\1001 Extremamente basico URI.dll
 D:\code\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\obj\Debug\netcoreapp3.1\1001 Extremamente basico URI.pdb
 D:\code\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\obj\Debug\netcoreapp3.1\1001 Extremamente basico URI.genruntimeconfig.cache
+C:\Users\Felipin\Documents\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\bin\Debug\netcoreapp3.1\1001 Extremamente basico URI.exe
+C:\Users\Felipin\Documents\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\bin\Debug\netcoreapp3.1\1001 Extremamente basico URI.deps.json
+C:\Users\Felipin\Documents\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\bin\Debug\netcoreapp3.1\1001 Extremamente basico URI.runtimeconfig.json
+C:\Users\Felipin\Documents\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\bin\Debug\netcoreapp3.1\1001 Extremamente basico URI.runtimeconfig.dev.json
+C:\Users\Felipin\Documents\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\bin\Debug\netcoreapp3.1\1001 Extremamente basico URI.dll
+C:\Users\Felipin\Documents\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\bin\Debug\netcoreapp3.1\1001 Extremamente basico URI.pdb
+C:\Users\Felipin\Documents\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\obj\Debug\netcoreapp3.1\1001 Extremamente basico URI.csproj.AssemblyReference.cache
+C:\Users\Felipin\Documents\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\obj\Debug\netcoreapp3.1\1001 Extremamente basico URI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipin\Documents\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\obj\Debug\netcoreapp3.1\1001 Extremamente basico URI.AssemblyInfoInputs.cache
+C:\Users\Felipin\Documents\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\obj\Debug\netcoreapp3.1\1001 Extremamente basico URI.AssemblyInfo.cs
+C:\Users\Felipin\Documents\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\obj\Debug\netcoreapp3.1\1001 Extremamente basico URI.csproj.CoreCompileInputs.cache
+C:\Users\Felipin\Documents\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\obj\Debug\netcoreapp3.1\1001 Extremamente basico URI.dll
+C:\Users\Felipin\Documents\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\obj\Debug\netcoreapp3.1\1001 Extremamente basico URI.pdb
+C:\Users\Felipin\Documents\git\URI-Online-Judge\CSharp\1001 Extremamente basico URI\1001 Extremamente basico URI\obj\Debug\netcoreapp3.1\1001 Extremamente basico URI.genruntimeconfig.cache
