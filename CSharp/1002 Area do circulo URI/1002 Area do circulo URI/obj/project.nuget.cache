@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C8N5SkqB4/ZNkg3dvXAoxIOutS6/FFXk6G6z2Q/Aho2+c7/8sDy5eggwKI3q3akZONaGleCRd5sDRa7F/f7G0g==",
+  "dgSpecHash": "/HBc1Qs6QxKnDFPTHGc0AqSbCQoH7UxH7wlDubyVSR0+nKnTwPcNynwgTkbCudVqUgxkkpbSsiSNmJzWyJYE5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jesus\\Documents\\URI-Online-Judge\\CSharp\\1002 Area do circulo URI\\1002 Area do circulo URI\\1002 Area do circulo URI.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Jesus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Felipin\\Documents\\git\\URI-Online-Judge\\CSharp\\1002 Area do circulo URI\\1002 Area do circulo URI\\1002 Area do circulo URI.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
