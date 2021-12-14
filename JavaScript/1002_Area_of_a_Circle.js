@@ -1,7 +1,6 @@
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 var lines = input.split('\n');
 
-let a = parseInt(lines.shift());
-let b = parseInt(lines.shift());
+let a = parseFloat(lines.shift());
 
-console.log(`X = ${a+b}`);
+console.log(`A=${((a*a)*3.14159).toFixed(4)}`);
