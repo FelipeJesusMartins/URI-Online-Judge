@@ -1,7 +1,0 @@
-D:\code\git\URI-Online-Judge\CSharp\1164 Numero Perfeito URI\1164 Numero Perfeito URI\bin\Debug\1164 Numero Perfeito URI.exe.config
-D:\code\git\URI-Online-Judge\CSharp\1164 Numero Perfeito URI\1164 Numero Perfeito URI\bin\Debug\1164 Numero Perfeito URI.exe
-D:\code\git\URI-Online-Judge\CSharp\1164 Numero Perfeito URI\1164 Numero Perfeito URI\bin\Debug\1164 Numero Perfeito URI.pdb
-D:\code\git\URI-Online-Judge\CSharp\1164 Numero Perfeito URI\1164 Numero Perfeito URI\obj\Debug\1164 Numero Perfeito URI.csproj.AssemblyReference.cache
-D:\code\git\URI-Online-Judge\CSharp\1164 Numero Perfeito URI\1164 Numero Perfeito URI\obj\Debug\1164 Numero Perfeito URI.csproj.CoreCompileInputs.cache
-D:\code\git\URI-Online-Judge\CSharp\1164 Numero Perfeito URI\1164 Numero Perfeito URI\obj\Debug\1164 Numero Perfeito URI.exe
-D:\code\git\URI-Online-Judge\CSharp\1164 Numero Perfeito URI\1164 Numero Perfeito URI\obj\Debug\1164 Numero Perfeito URI.pdb

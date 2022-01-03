@@ -1,7 +1,0 @@
-D:\code\URI\URI-Online-Judge\CSharp\1176 Fibonacci em Vetor URI\1176 Fibonacci em Vetor URI\bin\Debug\1176 Fibonacci em Vetor URI.exe.config
-D:\code\URI\URI-Online-Judge\CSharp\1176 Fibonacci em Vetor URI\1176 Fibonacci em Vetor URI\bin\Debug\1176 Fibonacci em Vetor URI.exe
-D:\code\URI\URI-Online-Judge\CSharp\1176 Fibonacci em Vetor URI\1176 Fibonacci em Vetor URI\bin\Debug\1176 Fibonacci em Vetor URI.pdb
-D:\code\URI\URI-Online-Judge\CSharp\1176 Fibonacci em Vetor URI\1176 Fibonacci em Vetor URI\obj\Debug\1176 Fibonacci em Vetor URI.csproj.CoreCompileInputs.cache
-D:\code\URI\URI-Online-Judge\CSharp\1176 Fibonacci em Vetor URI\1176 Fibonacci em Vetor URI\obj\Debug\1176 Fibonacci em Vetor URI.exe
-D:\code\URI\URI-Online-Judge\CSharp\1176 Fibonacci em Vetor URI\1176 Fibonacci em Vetor URI\obj\Debug\1176 Fibonacci em Vetor URI.pdb
-D:\code\URI\URI-Online-Judge\CSharp\1176 Fibonacci em Vetor URI\1176 Fibonacci em Vetor URI\obj\Debug\1176 Fibonacci em Vetor URI.csproj.AssemblyReference.cache
