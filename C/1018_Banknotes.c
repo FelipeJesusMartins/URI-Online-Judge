@@ -4,7 +4,7 @@ int main()
 {
     int x;
     scanf("%d", &x);
-    printf("%d", x);
+    printf("%d\n", x);
     printf("%d nota(s) de R$ 100,00\n", x / 100);
     printf("%d nota(s) de R$ 50,00\n", (x %= 100) / 50);
     printf("%d nota(s) de R$ 20,00\n", (x %= 50) / 20);
